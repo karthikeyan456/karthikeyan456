@@ -1,5 +1,5 @@
 - Hi, I’m Karthikeyan AS 
-- Student at PSG Institute of Technology and Applied Research
+- Student at PSG Institute of Technology and Applied Research, Coimbatore
 - I’m interested in Programming.
 - I’m currently learning Python.
 
